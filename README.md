@@ -38,7 +38,7 @@ _Example of a file deletion alert._
 
 ## Requirements
 
-- PowerShell (version X.X or higher)
+- PowerShell
 - Windows Operating System
 
 ## Installation
