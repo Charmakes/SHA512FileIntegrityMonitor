@@ -1,4 +1,3 @@
-![image](https://github.com/Charmakes/SHA512FileIntegrityMonitor/assets/71907540/8aa3966c-b416-4213-999b-3c863a1c2e11)# SHA512FileIntegrityMonitor
 SHA512FileIntegrityMonitor is a robust PowerShell script repository designed for continuous file integrity verification using the SHA-512 hashing algorithm.
 
 This PowerShell script enables file integrity monitoring by generating and monitoring baselines of files within a specified directory.
