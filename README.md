@@ -16,10 +16,7 @@ Usage
         Execute option 2 to monitor files against the existing baseline.
         Continuously checks for file modifications (content changes), deletions, and new file creations.
         Alerts are displayed in different colors based on the type of change detected.
-
-Screenshots
-
-Insert screenshots here:
+ScreenShots
     ![Image 3](https://media.discordapp.net/attachments/1110683056349651047/1253440831302406234/3.JPG?ex=6675dd3d&is=66748bbd&hm=e9c49b80dc31050d4f23661b44524904120e753ead5eecb982a311b10f7151dd&=&format=webp&width=1440&height=387)
 
     Screenshot of Option 1: Generating a new baseline.
