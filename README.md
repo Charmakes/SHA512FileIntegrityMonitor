@@ -51,7 +51,7 @@ _Example of a file deletion alert._
 
 2. Open PowerShell and run the script:
    ```powershell
-   .\file_integrity_monitor.ps1
+   .\FileIntegrityMonitor.ps1
    ```
 
 3. Follow the prompts to specify the directory and baseline file path.
